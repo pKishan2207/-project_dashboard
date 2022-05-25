@@ -4,7 +4,7 @@
 
 ## From this project, I learn:
 
-- how to build a fully functional calendar, a kanban board, a WYSIWYG editor, and a color picker, as well as seven different charts!
+- How to build a fully functional calendar, a kanban board, a WYSIWYG editor, and a color picker, as well as seven different charts!
 - Advanced React Best Practices such as folder and file structure, hooks, and refs
 - Advanced State Management of the entire application using React Context API
-- how to use Syncfusion - World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps
+- How to use Syncfusion - World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps
